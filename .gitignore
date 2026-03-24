@@ -1,0 +1,19 @@
+# Qt build files
+build-*
+*.pro.user
+*.o
+*.obj
+*.exe
+*.dll
+moc_*
+ui_*
+qrc_*
+Makefile
+Makefile.*
+.qmake.stash
+debug/
+release/
+
+# Windows
+Thumbs.db
+desktop.ini
